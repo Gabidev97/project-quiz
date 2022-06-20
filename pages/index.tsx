@@ -7,7 +7,7 @@ import  { useRouter } from "../node_modules/next/router";
 
 
 
-const BASE_URL = 'https://project-quiz-jtnls40ik-gabidev97.vercel.app/api'
+const BASE_URL = 'https://project-quiz-pi.vercel.app/api'
 
 export default function Home() {
   const router = useRouter()
